@@ -7,7 +7,7 @@ Image classification refers to the labeling of images into one of a number of pr
 There are potentially n number of classes in which a given image can be classified. Manually checking and classifying images could be a tedious task especially when they are massive in number (say 10,000) and therefore it will be very useful if we could automate this entire process using computer vision.
 
 
-# Firtly we have Scrapped the data and then applied the machine learing algorithm using gabor feature ectraction
+# Firtly we have Scrapped the data and then applied the machine learing algorithm using gabor feature extraction
 # Glob Library
 Glob is a general term used to define techniques to match specified patterns according to rules related to Unix shell. Linux and Unix systems and shells also support glob and also provide function glob() in system libraries.
 
